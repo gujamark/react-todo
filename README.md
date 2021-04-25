@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Site is depoyed to https://react-todo-g4.netlify.app/
 
 ## Available Scripts
 
