@@ -1,5 +1,5 @@
 import './App.css';
-import ErrorBoundary from './error-boundary';
+import ErrorBoundary from './ErrorBoundary';
 import TodoPage from './pages/Todopage';
 import Theme from './theme';
 import TodoProviderComponent from './contexts/TodoProvier';
